@@ -19,7 +19,6 @@ with open(file_path2, 'r', encoding='utf-8') as f2:
     chi_text = f2.read()
 
 
-
 MAX_SENTENCES = 8000
 
 eng_sentences = eng_text.split('\n')[:MAX_SENTENCES]
