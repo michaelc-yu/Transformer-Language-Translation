@@ -1,3 +1,7 @@
+#
+# Created by Michael Yu on 12/4/2023
+#
+
 import torch
 import torch.nn as nn
 from torch.nn import functional as F
